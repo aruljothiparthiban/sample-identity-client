@@ -1,0 +1,11 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+
+SampleClient/bin
+SampleClient/obj
+SampleClient/SampleClient.csproj.user
+SampleClient/Properties/PublishProfiles/SampleClient.pubxml.user
+
+packages
+
+.vs
+
